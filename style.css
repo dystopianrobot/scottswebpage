@@ -1,19 +1,18 @@
 body {
-  font-color: white,
-  background-color: #2B547E
+  font-color: white;
+  background-color: #2B547E;
 };
 
 title, h1, h2 {
-  text-align: center,
+  text-align: center;
 };
 
 .white-text {
-  color: #F0F8FF
+  color: #F0F8FF;
 };
 
 .mini-title {
-  font-weight: bold,
-  text-decoration: underline,
-  font-size: 1.2rem
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 1.2rem;
 };
-/n
