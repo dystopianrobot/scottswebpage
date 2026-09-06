@@ -12,3 +12,32 @@ body {
   text-decoration: underline;
   font-size: 1.2rem;
 };
+
+.bold-text {
+  font-weight: bold;
+};
+
+.left-aligned {
+  text-align: left;
+};
+
+.underlined {
+  text-decoration: underlined;
+};
+
+.centered-on-page {
+  text-align: center;
+};
+
+.large-letter {
+  font-size: 1.5rem;
+};
+
+.span-large-letter {
+  border: solid 1px #000;
+  display: inline-block;
+  width: 1.8rem;
+  height: 1.8rem;
+  line-height: 1.8rem;
+  text-align: center;
+};
